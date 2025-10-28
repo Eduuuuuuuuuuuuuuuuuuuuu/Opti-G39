@@ -5,7 +5,7 @@ P = []
 K = []
 W_P = []
 N_W = []
-T = []
+T = 10
 K_V2G = []
 
 # Parámetros (por ahora son indefinidos)
@@ -15,7 +15,7 @@ R = []
 C_FIX = []
 C_VAR = []
 CAP = []
-Po = []
+Pot = []
 G = []
 Phi = []
 U_MAX = []
