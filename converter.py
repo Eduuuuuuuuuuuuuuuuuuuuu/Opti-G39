@@ -5,7 +5,7 @@ P = []
 K = []
 W_P = []
 N_W = []
-T = 10
+T = []
 K_V2G = []
 
 # Parámetros (por ahora son indefinidos)
