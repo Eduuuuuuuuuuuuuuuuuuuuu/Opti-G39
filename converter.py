@@ -2,10 +2,11 @@
 # Conjuntos (por ahora son indefinidos)
 N = []
 P = []
+P_Crit = []
 K = []
-W_P = []
-N_W = []
+W = []
 T = []
+period = 9
 K_V2G = []
 
 # Parámetros (por ahora son indefinidos)
@@ -34,4 +35,4 @@ m_MIN = {}
 Omega = {}
 Sigma = {}
 B_INC = {}
-Theta_EFF = {}
+Phi_eff = {}
