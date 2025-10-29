@@ -3,6 +3,7 @@ from gurobipy import GRB, Model, quicksum
 from converter import *
 
 model = Model("EV_Charging_Chile_V2G")
+model.Params.OutputFlag = 0
 
 # Variables
 
