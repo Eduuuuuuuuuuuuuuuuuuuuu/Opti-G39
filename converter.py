@@ -6,7 +6,7 @@ P_Crit = []
 K = []
 W = []
 T = []
-period = 9
+period = 10
 K_V2G = []
 
 # Parámetros (por ahora son indefinidos)
